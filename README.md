@@ -2,7 +2,7 @@
 
 👋 Hello, world!
 
-I am a first-year B.Tech IT student, eager to dive deep into the vast ocean of technology. My current skill set includes a solid foundation in C, Python, and Java. I'm passionate about coding, problem-solving, and continually expanding my knowledge.
+I am a first-year B.Tech IT student, eager to dive deep into the vast ocean of technology. My current skill set includes a solid foundation in C,C++, Python, and Java. I'm passionate about coding, problem-solving, and continually expanding my knowledge.
 
 🌱 Learning and Growing
 
